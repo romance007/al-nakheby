@@ -7,7 +7,8 @@
     'author': 'Mohammed Al-Nakheby',
     'website': 'https://github.com/romance007',
     'depends': ['stock'],
-    'data': [
+        'data': [
+        'views/product_template_views.xml',
         'reports/report_reception_report_label.xml',
     ],
     'installable': True,
